@@ -1,7 +1,7 @@
 configserver: true
 bus: true
 
-name: Naresh
+name: Bijay
 
 eureka:
   instance:
