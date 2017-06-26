@@ -1,6 +1,8 @@
 configserver: true
 bus: true
 
+name: Bijay Ch
+
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
